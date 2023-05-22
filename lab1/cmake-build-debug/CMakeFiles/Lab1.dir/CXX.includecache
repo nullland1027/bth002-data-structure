@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/whoami/project/data_structure/data-structure-lab-1/AList.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/Circle.h
+PeopleNode.h
+/Users/whoami/project/data_structure/data-structure-lab-1/PeopleNode.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/LinkedList.h
+Node.h
+/Users/whoami/project/data_structure/data-structure-lab-1/Node.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/Node.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/PeopleNode.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/Queue.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/Stack.h
+
+/Users/whoami/project/data_structure/data-structure-lab-1/main.cpp
+iostream
+-
+AList.h
+/Users/whoami/project/data_structure/data-structure-lab-1/AList.h
+LinkedList.h
+/Users/whoami/project/data_structure/data-structure-lab-1/LinkedList.h
+Stack.h
+/Users/whoami/project/data_structure/data-structure-lab-1/Stack.h
+Queue.h
+/Users/whoami/project/data_structure/data-structure-lab-1/Queue.h
+Circle.h
+/Users/whoami/project/data_structure/data-structure-lab-1/Circle.h
+

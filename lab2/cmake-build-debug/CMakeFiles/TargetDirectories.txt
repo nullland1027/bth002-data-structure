@@ -1,0 +1,3 @@
+/Users/whoami/project-of-code/data_structure/data-structure-lab-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/whoami/project-of-code/data_structure/data-structure-lab-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/whoami/project-of-code/data_structure/data-structure-lab-2/cmake-build-debug/CMakeFiles/data_structure_lab_2.dir

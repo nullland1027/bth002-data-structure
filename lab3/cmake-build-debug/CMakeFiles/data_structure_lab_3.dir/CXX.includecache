@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Whoami/Desktop/BTH002/data_structure/data-structure-lab-3/MyTree.h
+Node.h
+C:/Users/Whoami/Desktop/BTH002/data_structure/data-structure-lab-3/Node.h
+
+C:/Users/Whoami/Desktop/BTH002/data_structure/data-structure-lab-3/Node.h
+
+C:/Users/Whoami/Desktop/BTH002/data_structure/data-structure-lab-3/main.cpp
+iostream
+-
+MyTree.h
+C:/Users/Whoami/Desktop/BTH002/data_structure/data-structure-lab-3/MyTree.h
+cstdlib
+-
+ctime
+-
+

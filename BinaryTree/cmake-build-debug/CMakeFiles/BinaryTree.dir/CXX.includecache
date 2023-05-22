@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Whoami/Desktop/data_structure/BinaryTree/BinaryTree.h
+iostream
+-
+
+C:/Users/Whoami/Desktop/data_structure/BinaryTree/TreeNode.h
+
+C:/Users/Whoami/Desktop/data_structure/BinaryTree/main.cpp
+iostream
+-
+TreeNode.h
+C:/Users/Whoami/Desktop/data_structure/BinaryTree/TreeNode.h
+BinaryTree.h
+C:/Users/Whoami/Desktop/data_structure/BinaryTree/BinaryTree.h
+
